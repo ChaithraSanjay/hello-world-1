@@ -1,6 +1,6 @@
 <html>
 <head>
-   <title>time table</title>
+   <title>time table for a month</title>
 </head>
 <body bgcolor="skyblue">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
@@ -17,14 +17,14 @@
  <td>4:00-5:00
 </tr>
 <tr>
- <td align="center">MONDAY
+ <td align="center">MONDAYYYYYYY
  <td align="center">---<td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="pink">SUB2<br>
  <td align="center"><font color="red">SUB3<br>
  <td rowspan="6"align="center">L<br>U<br>N<br>C<br>H
  <td align="center"><font color="maroon">SUB4<br>
  <td align="center"><font color="brown">SUB5<br>
- <td align="center">counselling class
+ <td align="center">Dance class
 </tr>
 <tr>
  <td align="center">TUESDAY
@@ -62,7 +62,7 @@
  <td align="center">---
  <td align="center"><font color="pink">SUB4<br>
  <td align="center"><font color="brown">SUB5<br>
- <td align="center">library
+ <td align="center">Cultural Break
 </tr>
 <tr>
  <td align="center">SATURDAY
