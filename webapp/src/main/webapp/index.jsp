@@ -17,7 +17,7 @@
  <td>4:00-5:00
 </tr>
 <tr>
- <td align="center">MONDAYYYYYYY
+ <td align="center">mondaymonday
  <td align="center">---<td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="pink">SUB2<br>
  <td align="center"><font color="red">SUB3<br>
