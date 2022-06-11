@@ -17,7 +17,7 @@
  <td>4:00-5:00
 </tr>
 <tr>
- <td align="center">mondaymonday
+ <td align="center">Moody Monday
  <td align="center">---<td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="pink">SUB2<br>
  <td align="center"><font color="red">SUB3<br>
@@ -27,7 +27,7 @@
  <td align="center">Dance class
 </tr>
 <tr>
- <td align="center">TUESDAY
+ <td align="center">Tuning TUESDAY
  <td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="red">SUB2<br>
  <td align="center"><font color="pink">SUB3<br>
@@ -37,7 +37,7 @@
  <td align="center">library
 </tr>
 <tr>
- <td align="center">WEDNESDAY
+ <td align="center">Wow WEDNESDAY
  <td align="center"><font color="pink">SUB1<br>
  <td align="center"><font color="orange">SUB2<BR>
  <td align="center"><font color="brown">SWA<br>
@@ -45,7 +45,7 @@
  <td colspan="3" align="center"><font color="green"> lab
 </tr>
 <tr>
- <td align="center">THURSDAY
+ <td align="center">Thor THURSDAY
  <td align="center">SUB1<br>
  <td align="center"><font color="brown">SUB2<br>
  <td align="center"><font color="orange">SUB3<BR>
@@ -55,7 +55,7 @@
  <td align="center">library
 </tr>
 <tr>
- <td align="center">FRIDAY
+ <td align="center">FFun FRIDAY
  <td align="center"><font color="orange">SUB1<BR>
  <td align="center"><font color="maroon">SUB2<br>
  <td align="center"><font color="blue">SUB3<br>
@@ -65,7 +65,7 @@
  <td align="center">Cultural Break
 </tr>
 <tr>
- <td align="center">SATURDAY
+ <td align="center">Sunny SATURDAY
  <td align="center"><font color="red">SUB1<br>
  <td colspan="3" align="center">seminar
  <td align="center"><font color="pink">SUB4<br>
