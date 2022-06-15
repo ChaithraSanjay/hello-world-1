@@ -1,6 +1,6 @@
 <html>
 <head>
-   <title>time table for a month</title>
+	<title> <h2>TIME TABLE </h2> </title>
 </head>
 <body bgcolor="skyblue">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
@@ -70,7 +70,7 @@
  <td colspan="3" align="center">seminar
  <td align="center"><font color="pink">SUB4<br>
  <td align="center"><font color="brown">SUB5<br>
- <td align="center">library
+ <td align="center">LIBRARY
 </tr>
 </body>
 </html>
