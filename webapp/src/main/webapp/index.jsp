@@ -2,7 +2,7 @@
 <head>
 	<title> <h2>TIME TABLE </h2> </title>
 </head>
-<body bgcolor="skyblue">
+<body bgcolor="purple">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
 <table border="2" cellspacing="3" align="center">
 <tr>
