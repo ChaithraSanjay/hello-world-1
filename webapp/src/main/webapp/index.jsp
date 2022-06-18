@@ -2,7 +2,7 @@
 <head>
 	<title> <h2>TIME TABLE </h2> </title>
 </head>
-<body bgcolor="violet">
+<body bgcolor="Thistle">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
 <table border="2" cellspacing="3" align="center">
 <tr>
@@ -17,7 +17,7 @@
  <td>4:00-5:00
 </tr>
 <tr>
- <td align="center">Moody Monday
+ <td align="center">Monsoon Monday
  <td align="center">---<td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="pink">SUB2<br>
  <td align="center"><font color="red">SUB3<br>
@@ -27,7 +27,7 @@
  <td align="center">Dance class
 </tr>
 <tr>
- <td align="center">Tuning TUESDAY
+ <td align="center">Tender TUESDAY
  <td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="red">SUB2<br>
  <td align="center"><font color="pink">SUB3<br>
@@ -45,7 +45,7 @@
  <td colspan="3" align="center"><font color="green"> lab
 </tr>
 <tr>
- <td align="center">Thor THURSDAY
+ <td align="center">Thoughtful THURSDAY
  <td align="center">SUB1<br>
  <td align="center"><font color="brown">SUB2<br>
  <td align="center"><font color="orange">SUB3<BR>
@@ -55,7 +55,7 @@
  <td align="center">library
 </tr>
 <tr>
- <td align="center">FFun FRIDAY
+ <td align="center">Finally FRIDAY
  <td align="center"><font color="orange">SUB1<BR>
  <td align="center"><font color="maroon">SUB2<br>
  <td align="center"><font color="blue">SUB3<br>
