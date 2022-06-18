@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title> <h2>TIME TABLE </h2> </title>
+	<title> TIME TABLE </title>
 </head>
 <body bgcolor="Thistle">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
