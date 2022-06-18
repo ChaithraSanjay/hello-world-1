@@ -2,7 +2,7 @@
 <head>
 	<title> TIME TABLE </title>
 </head>
-<body bgcolor="Thistle">
+<body bgcolor="peach">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
 <table border="2" cellspacing="3" align="center">
 <tr>
@@ -17,7 +17,7 @@
  <td>4:00-5:00
 </tr>
 <tr>
- <td align="center">Monsoon Monday
+ <td align="center">Monsoon Monday!!
  <td align="center">---<td align="center"><font color="blue">SUB1<br>
  <td align="center"><font color="pink">SUB2<br>
  <td align="center"><font color="red">SUB3<br>
