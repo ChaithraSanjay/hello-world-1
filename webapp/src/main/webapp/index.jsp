@@ -1,8 +1,8 @@
 <html>
 <head>
-	<title> TIME TABLE </title>
+	<title> CALENDER </title>
 </head>
-<body bgcolor="peach">
+<body bgcolor="purple">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
 <table border="2" cellspacing="3" align="center">
 <tr>
