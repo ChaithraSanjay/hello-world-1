@@ -2,7 +2,7 @@
 <head>
 	<title> CALENDER </title>
 </head>
-<body bgcolor="purple">
+<body bgcolor="yellow">
 <H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
 <table border="2" cellspacing="3" align="center">
 <tr>
